@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SNAKEDON</Machine>
+    <WindowsUser>JoseManuel</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Windows Phone|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>d17cc561-508d-4a60-a677-f044f821487a</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\josemanuel\documents\visual studio 2013\Projects\DemoMvvm\DemoMvvm\obj\x86\Windows Phone\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\josemanuel\documents\visual studio 2013\Projects\DemoMvvm\DemoMvvm\bin\x86\Windows Phone\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\josemanuel\documents\visual studio 2013\Projects\DemoMvvm\DemoMvvm\bin\x86\Windows Phone\DemoMvvm.exe">
+      <PackagePath>DemoMvvm.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\josemanuel\documents\visual studio 2013\Projects\DemoMvvm\DemoMvvm\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\josemanuel\documents\visual studio 2013\Projects\DemoMvvm\DemoMvvm\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\josemanuel\documents\visual studio 2013\Projects\DemoMvvm\DemoMvvm\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\josemanuel\documents\visual studio 2013\Projects\DemoMvvm\DemoMvvm\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\josemanuel\documents\visual studio 2013\Projects\DemoMvvm\DemoMvvm\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\josemanuel\documents\visual studio 2013\Projects\DemoMvvm\DemoMvvm\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\josemanuel\documents\visual studio 2013\Projects\DemoMvvm\DemoMvvm\bin\x86\Windows Phone\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\josemanuel\documents\visual studio 2013\Projects\DemoMvvm\DemoMvvm\bin\x86\Windows Phone\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\josemanuel\documents\visual studio 2013\Projects\DemoMvvm\DemoMvvm\bin\x86\Windows Phone\DemoMvvm.xr.xml">
+      <PackagePath>DemoMvvm.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\josemanuel\documents\visual studio 2013\Projects\DemoMvvm\DemoMvvm\bin\x86\Windows Phone\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
